@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: zeus77
+    username: admin-prod
     hikari:
       maximum-pool-size: 5
       connection-timeout: 20000
